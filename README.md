@@ -11,7 +11,7 @@ I made a project of a 3x2 keyboard based on Xiao RP2040. I chose this size so I 
 </p>
 
 # In the project I'm using:
-## 1x Ec11 rotary encoder
 ## 1x Custom made PCB
+## 1x Ec11 rotary encoder
 ## 6x Cherry MX switches
 ## 6x Blank DSA keycaps
