@@ -6,7 +6,7 @@ I made a project of a 3x2 keyboard based on Xiao RP2040. I chose this size so I 
 </p>
 
 # </p>
-# The Pcb
+# The PCB
 <img width="534" height="497" alt="Zrzut ekranu 2025-11-17 204238" src="https://github.com/user-attachments/assets/973e2142-7806-4b87-b40e-f16e0fc251dc" />
 </p>
 
