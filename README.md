@@ -7,7 +7,7 @@ I made a project of a 3x2 keyboard based on Xiao RP2040. I chose this size so I 
 
 # </p>
 # The PCB
-<img width="534" height="497" alt="Zrzut ekranu 2025-11-17 204238" src="https://github.com/user-attachments/assets/973e2142-7806-4b87-b40e-f16e0fc251dc" />
+<img width="534" height="634" alt="Zrzut ekranu 2025-11-21 204721" src="https://github.com/user-attachments/assets/0cb8756b-44d0-4784-8eac-e2c925e3b7e6" />
 </p>
 
 # In the project I'm using:
